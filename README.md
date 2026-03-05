@@ -16,14 +16,19 @@ The repository system also allows users to expand their collection by adding mul
 ## Key Features
 Large Jailbreak App Library
 XIXtract provides access to a collection of more than 5,000 jailbreak apps, tweaks, themes, and utilities. These apps are organized in repositories, making it easier to browse and install content.
+
 Repository-Based System
 The platform uses .xix repository files that contain collections of apps. Once installed, the repository automatically appears in the app and its content becomes available under the Apps section.
+
 Easy Repository Management
 Users can manage all added repositories from a dedicated repository tab. From here they can view repositories, update them, remove them, or browse their content.
+
 Custom Repository Creation
 XIXtract also allows developers or advanced users to create their own repositories using the Admin XIX Creator tool. These repositories can then be shared as .xix files.
+
 Built-in Search and Filters
 The app includes a search feature that helps users quickly find applications across all installed repositories. Apps can also be filtered by category for easier browsing.
+
 Customization Options
 Several customization settings are available, including theme selection, repository expansion options, and controls for showing or hiding app icons.
 
