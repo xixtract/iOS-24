@@ -1,12 +1,16 @@
 # XIXtract for iOS 26.4 Jailbreak
 XIXtract provides a modern and simple way for users to access jailbreak-style apps on iOS 26.4 without complicated installation methods. It introduces a repository-based system that allows users to install apps, tweaks, and themes using special .xix repository files.
+
 With support for thousands of applications and an easy repository management system, XIXtract allows iPhone and iPad users to explore device customization in a more flexible and organized way.
+
 The platform works directly on the device and enables users to install repositories containing jailbreak utilities, modification tools, and third-party apps within just a few steps.
 
 ## Overview
 XIXtract is designed to simplify the way users discover and install jailbreak-related content on iOS 26.4. Instead of relying on traditional package managers, it uses a dedicated .xix repository format that organizes apps into structured repositories.
+
 Once a repository is added, the applications inside it automatically appear in the app library where users can browse and install them.
 By connecting XIXtract with the iOS 26.4 jailbreak repository, users can access a large library of apps, tweaks, and themes designed to enhance their device experience.
+
 The repository system also allows users to expand their collection by adding multiple .xix files from supported providers.
 
 ## Key Features
