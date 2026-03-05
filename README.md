@@ -4,6 +4,8 @@ XIXtract provides a modern and simple way for users to access jailbreak-style ap
 With support for thousands of applications and an easy repository management system, XIXtract allows iPhone and iPad users to explore device customization in a more flexible and organized way.
 
 The platform works directly on the device and enables users to install repositories containing jailbreak utilities, modification tools, and third-party apps within just a few steps.
+https://raw.githubusercontent.com/xixtract/iOS-24/615b868d26e0bd593634ca4a7901835dfca54629/XIXtract-for-iOS-26.4.png
+
 
 ## Overview
 XIXtract is designed to simplify the way users discover and install jailbreak-related content on iOS 26.4. Instead of relying on traditional package managers, it uses a dedicated .xix repository format that organizes apps into structured repositories.
