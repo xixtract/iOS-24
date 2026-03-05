@@ -39,6 +39,7 @@ Several customization settings are available, including theme selection, reposit
 
 ## How to Install XIXtract on iOS 26.4
 Follow these steps to start using XIXtract on your device.
+
 Step 1 – Install the XIXtract App
 Download and install the XIXtract application on your iPhone or iPad using the provided download option.
 
