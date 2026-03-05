@@ -27,15 +27,18 @@ Several customization settings are available, including theme selection, reposit
 Follow these steps to start using XIXtract on your device.
 Step 1 – Install the XIXtract App
 Download and install the XIXtract application on your iPhone or iPad using the provided download option.
+
 Step 2 – Download the iOS 26.4 Jailbreak Repository
-Next, download the iOS 26.4 Jailbreak repository (.xix file) using the installation button.
- The file will automatically be saved to the Files app on your device. When the download completes successfully, the device will vibrate as confirmation.
+Next, download the iOS 26.4 Jailbreak repository (.xix file) using the installation button. The file will automatically be saved to the Files app on your device. When the download completes successfully, the device will vibrate as confirmation.
+
 Step 3 – Import the Repository
 Open the XIXtract application and navigate to the Repos tab, which is the first tab in the app. Tap on Browse .xix Files and locate the repository file you downloaded earlier.
 Select the file and install it. After installation, the repository will be automatically added to the app.
+
 Step 4 – Browse and Install Apps
 Once the repository is added, it will appear on the app’s home screen. The applications included in that repository will be available under the Apps tab.
 You can now browse the repository and install any available apps, tweaks, or themes.
+
 Step 5 – Add More Repositories
 If you want access to more apps, visit the Official XIXtract Repository and download additional .xix files. These files can be installed using the same method to expand your app collection.
 
